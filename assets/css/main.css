@@ -2380,13 +2380,11 @@ input, select, textarea {
 							text-transform: none !important;
 							font-family: 'Font Awesome 5 Free';
 							font-weight: 900;
-							columns: 2;
 						}
 
 						#header nav ul li.submenu > a:before {
 							content: '\f107';
 							margin-right: 0.65em;
-							columns: 2;
 						}
 
 					#header nav ul li.active > a, #header nav ul li:hover > a {
@@ -2731,8 +2729,6 @@ input, select, textarea {
 
 			#header nav ul li {
 				margin-left: 1em;
-											columns: 2;
-
 			}
 
 		/* Banner */
