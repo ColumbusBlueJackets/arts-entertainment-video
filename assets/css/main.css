@@ -2380,6 +2380,7 @@ input, select, textarea {
 							text-transform: none !important;
 							font-family: 'Font Awesome 5 Free';
 							font-weight: 900;
+							columns: 2;
 						}
 
 						#header nav ul li.submenu > a:before {
